@@ -1,5 +1,5 @@
 ## Open Source Roblox Executor Exploit 
-This is the source code for xMainDab's UI. Beware that the code is extremely messy and perhaps even unoptimised. There is also a lack of comments within the code. MainDab's UI is made using WPF.
+This is the source code for xMainDab's UI. Beware that the code is extremely messy and perhaps even unoptimised. There is also a lack of comments within the code. MainDab's UI is made using WPF. Release version can be 
 
 ## Some Videos and pictures
 [xMainDab's Game Hub in operation](https://github.com/Avaluate/MainDab/assets/126605163/67fcf747-64da-429a-9e31-e0f783940095) (video)
