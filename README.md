@@ -6,6 +6,7 @@ This is the source code for xMainDab's UI. Beware that the code is extremely mes
 
 [MainDab's Game Hub in operation](https://github.com/Avaluate/MainDab/assets/126605163/67fcf747-64da-429a-9e31-e0f783940095) (video)
 
+![xMainDeb](https://github.com/Ukn0wnUs3rn4m3/xMainDab/assets/149949023/d2c628d9-c56a-49df-8018-79076b6c7069)
 
 
 https://github.com/Ukn0wnUs3rn4m3/xMainDab/assets/149949023/1ca115ea-1469-4fc7-b79b-e67d6cacee09
